@@ -1,0 +1,52 @@
+---
+title: "Literatura del curso"
+---
+
+El curso tendrá lecturas obligatorias y complementarias clase a clase. 
+
+## Introducción al big data y a la ciencia social computacional
+
+  Salganik, Matthew J. 2018. Bit by Bit: Social Research in the Digital Age. Princeton, New Jersey: Princeton University Press. [Click aquí](https://www.dropbox.com/sh/zizvx2f707eagll/AADVBjqFwhemktpMqGJcSHmsa?dl=0)
+
+  Cioffi-Revilla, C. (2014). Introduction to computational social science. London and Hei-delberg: Springer. 2ºEdición. [Click aquí](https://www.dropbox.com/sh/zizvx2f707eagll/AADVBjqFwhemktpMqGJcSHmsa?dl=0)
+
+  Lazer, David et al 2009. ‘Computational Social Science’. Science 323(5915):721–23. [Click aquí](https://www.dropbox.com/sh/zizvx2f707eagll/AADVBjqFwhemktpMqGJcSHmsa?dl=0)
+
+  Urdinez, F., & Cruz, A. (2020). R for Political Data Science: A Practical Guide. CRC Press. Recurso en línea en español: [Click aquí](https://arcruz0.github.io/libroadp/)
+
+## Machine learning y ciencias sociales computacionales
+
+  Breiman, L. (2001). Statistical modeling: The two cultures (with comments and a rejoinder by the author). Statistical science, 16(3), 199-214. **Presentación de estudiantes 1** [Click aquí](https://www.dropbox.com/sh/coofp1auza4u55v/AAAKyJ_Ov5L-OYZx2AmU2wNfa?dl=0)
+
+  Grimmer, J., Roberts, M. E., & Stewart, B. M. (2021). Machine learning for social science: An agnostic approach. Annual Review of Political Science, 24, 395-419. **Presentación de estudiantes 2** [Click aquí](https://www.dropbox.com/sh/coofp1auza4u55v/AAAKyJ_Ov5L-OYZx2AmU2wNfa?dl=0)
+
+## Recolección, manipulación y visualización de datos 
+
+  Urdinez, F., & Cruz, A. (2020). R for Political Data Science: A Practical Guide. CRC Press. Recurso en línea en español: [Click aquí](https://arcruz0.github.io/libroadp/)
+
+  Wickham, H., & Grolemund, G. (2016). R for data science: import, tidy, transform, visualize, and model data. " O'Reilly Media, Inc.". Recurso en línea: [Click aquí](https://r4ds.had.co.nz/)
+
+  Healy, K. (2018). Data visualization: a practical introduction. Princeton University Press. Recurso en línea: [Click aquí](https://socviz.co/)
+
+  Wickham, H. (2019). Advanced r. CRC press. Recurso en línea: [Click aquí](https://adv-r.hadley.nz/fp.html)
+
+## Aplicaciones a las ciencias sociales computacionales 
+
+  van ‘t Wout, E., Pieringer, C., Torres Irribarra, D., Asahi, K., & Larroulet, P. (2021). Machine learning for policing: a case study on arrests in Chile. Policing and society, 31(9), 1036-1050. **Presentación de estudiantes 3** [Click aquí](https://www.dropbox.com/sh/coofp1auza4u55v/AAAKyJ_Ov5L-OYZx2AmU2wNfa?dl=0)
+
+  Rossetti, T., Lobel, H., Rocco, V., & Hurtubia, R. (2019). Explaining subjective perceptions of public spaces as a function of the built environment: A massive data approach. Landscape and urban planning, 181, 169-178. **Presentación de estudiantes 4** [Click aquí](https://www.dropbox.com/sh/coofp1auza4u55v/AAAKyJ_Ov5L-OYZx2AmU2wNfa?dl=0)
+
+  Méndez, J. T., Lobel, H., Parra, D., & Herrera, J. C. (2019). Using Twitter to infer user satisfaction with public transport: the case of Santiago, Chile. IEEE Access, 7, 60255-60263.	 **Presentación de estudiantes 5** [Click aquí](https://www.dropbox.com/sh/coofp1auza4u55v/AAAKyJ_Ov5L-OYZx2AmU2wNfa?dl=0)
+  
+   Bro, N., & Mendoza, M. (2021). Surname affinity in Santiago, Chile: A network-based approach that uncovers urban segregation. PloS one, 16(1), e0244372.	 **Presentación de estudiantes 6** [Click aquí](https://www.dropbox.com/sh/coofp1auza4u55v/AAAKyJ_Ov5L-OYZx2AmU2wNfa?dl=0)
+
+  Bronfman, N. C., Repetto, P. B., Guerrero, N., Castañeda, J. V., & Cisternas, P. C. (2021). Temporal evolution in social vulnerability to natural hazards in Chile. Natural hazards, 107(2), 1757-1784.	**Presentación de estudiantes 7** [Click aquí](https://www.dropbox.com/sh/coofp1auza4u55v/AAAKyJ_Ov5L-OYZx2AmU2wNfa?dl=0)
+
+  Beytía, P., & Müller, H. P. (2022). Towards a Digital Reflexive Sociology: Using Wikipedia's Biographical Repository as a Reflexive Tool. Poetics, 95, 101732. **Presentación de estudiantes 8** [Click aquí](https://www.dropbox.com/sh/coofp1auza4u55v/AAAKyJ_Ov5L-OYZx2AmU2wNfa?dl=0)
+
+  Cioffi-Revilla, C. (2014). Introduction to computational social science. London and Hei-delberg: Springer. 2ºEdition. Cap. 4. [Click aquí](https://www.dropbox.com/sh/zizvx2f707eagll/AADVBjqFwhemktpMqGJcSHmsa?dl=0)
+
+  Lovelace, R., Nowosad, J., & Muenchow, J., (2019), Geocomputation with R, Chapman and Hall/CRC. [Click aquí](https://geocompr.robinlovelace.net/)
+
+  Silge, J., & Robinson, D. (2017). Text mining with R: A tidy approach. " O'Reilly Media, Inc.". Recurso en línea: [Click aquí](https://www.tidytextmining.com/index.html)  
+

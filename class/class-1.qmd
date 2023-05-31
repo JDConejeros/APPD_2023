@@ -1,0 +1,39 @@
+---
+title: "Clase 1"
+subtitle: "Políticas Públicas y Ciencia de Datos"
+editor: visual
+---
+
+::: {.callout-important title="Ideas fuerza"}
+1.  Nos enfrentamos a un escenario de expansión digital en que las compañias, gobiernos y organizaciones acumulan grandes niveles de información denominado comúnmente como ***Big Data***.
+
+2.  El ***Big Data*** no es solo cantidad, sino que otra serie de cualidades: volumen, variedad, velocidad, veracidad, valor, vago y vacuo.
+
+3.  Las **Ciencias Sociales Computacionales (CSC)** utilizan herramientas de la programación y la estadística para procesar, analizar, modelar y predecir datos conductuales y relacionales de distinta naturaleza.
+
+4.  El objetivo de las **CSC** es robustecer las teorías e hipótesis clásicas de las ciencias sociales, a su vez de aproximar a nuevas preguntas para comprender nuestro vínculo con otros y otras.
+:::
+
+## Clase
+
+<iframe src="/slides/APPDD_clase1.html" height="550" width="100%" allowfullscreen="true">
+
+</iframe>
+
+Puedes descargar la presentación en PDF dando [Click aquí](/slides/APPDD_clase1.pdf "Clase 1 pdf") ⏎
+
+## Literatura
+
+-   Salganik, Matthew J. 2018. Bit by Bit: Social Research in the Digital Age. Princeton, New Jersey: Princeton University Press. [Click aquí](https://www.dropbox.com/sh/zizvx2f707eagll/AADVBjqFwhemktpMqGJcSHmsa?dl=0) ⏎
+
+    -   *Capítulo 2, pp.12-39*
+
+-   Cioffi-Revilla, C. (2014). Introduction to computational social science. London and Hei-delberg: Springer. 2ºEdición. [Click aquí](https://www.dropbox.com/sh/zizvx2f707eagll/AADVBjqFwhemktpMqGJcSHmsa?dl=0) ⏎
+
+-   Lazer, David et al 2009. 'Computational Social Science'. Science 323(5915):721--23. [Click aquí](https://www.dropbox.com/sh/zizvx2f707eagll/AADVBjqFwhemktpMqGJcSHmsa?dl=0) ⏎
+
+<br><br>
+
+::: {style="font-size: 0.875em;"}
+Vuelve a la [descripción del curso](/ "Descripción del curso") ⏎
+:::

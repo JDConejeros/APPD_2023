@@ -1,0 +1,77 @@
+---
+title: "Descripción del curso"
+---
+
+## Descripción del curso
+
+El concepto de políticas basadas en evidencia adquiere cada vez más relevancia en distintos sectores dedicados a el análisis y diseño de políticas públicas, por lo que se hace necesario contar con profesionales preparados para estos efectos.
+
+La era digital ha producido una explosión de datos conductuales y relacionales de distinta naturaleza comúnmente denominados big data. La ciencia social computacional (CSC) utiliza herramientas computacionales para procesar, analizar, visualizar y modelar estos datos. Este curso introduce a 2 áreas de interés para la CSC: **1) la extracción y manipulación de bases de datos** y **2) técnicas aplicadas al análisis de datos geográficos (GD), redes sociales (SNA) y el procesamiento del lenguaje natural (NLP)**.
+
+Las clases estarán programas de la siguiente manera: 
+
+|           | Fecha                    | Horario       | Contenidos                                     | Materiales  |
+|-----------|:--------------------:|:-------------:|----------------------------------------------|:-----------:|
+| Sesión 1  | Viernes 12/05/2023       | 18:30 - 21:45 | Introducción a las CSC para políticas públcas  |  [🖥️](class/class-1.html "Clase 1"){aria-label="Clase 1 slides"} |  
+| Sesión 2  | Viernes 26/05/2023       | 18:30 - 21:45 | Introducción a las CSC para políticas públcas  |  [🖥️](class/class-1.html "Clase 1"){aria-label="Clase 1 slides"} |  
+| Sesión 3  | Viernes 09/06/2023       | 18:30 - 21:45 | Fundamentos de la estadística para las CSC     | |
+| Sesión 4  | Sábado 10/06/2023        | 09:00 - 12:15 | Extracción automática de texto: Webscraping y APIs | |
+| Sesión 5  | Viernes 30/06/2023       | 18:30 - 21:45 | Introducción al análisis de redes sociales     | |
+| Sesión 6  | Viernes 14/07/2023       | 18:30 - 21:45 | Análisis de datos geográficos                  | |
+| Sesión 7  | Viernes 04/08/2023       | 18:30 - 21:45 | Análisis automatizado de texto                 | | 
+| Sesión 8  | Sábado 05/08/2023        | 09:00 - 12:15 | Presentación de trabajos finales               | |
+
+
+## Objetivos de aprendizaje
+
+Al terminar el curso, los estudiantes sabrán:
+
+1. Identificar tipos de datos para distintas preguntas de investigación.
+
+2. Identificar ventajas y desventajas de distintos métodos empíricos.
+
+3. Aplicar métodos de ciencia de datos utilizando análisis estadístico
+
+Los puntos anteriores se realizarán utilizando `R`, por lo que **los/as estudiantes profundizarán su conocimiento de este lenguaje de programación**.
+
+## Metodología del curso
+
+El curso es práctico por lo que tiene el propósito de enseñar a programar orientado proyectos, por lo que tendremos actividades: 
+
+- **Interactivas**: los estudiantes deberán programar análisis a partir de una pregunta/objetivo de investigación
+
+- **De análisis**: los estudiantes deberán leer investigaciones en el área y exponer a sus compañeros los aspectos principales
+
+- **Aplicación**: los estudiantes deberán aplicar alguna de las técnicas vistas a una pregunta **relevante para las políticas públicas**
+
+## Evaluaciones 
+
+El curso tendrá 4 evaluaciones ponderadas y organizadas de la siguiente manera: 
+
+|                   | Fecha Publicación       | Fecha - Horario de entrega       | Contenidos                           | Pautas |
+|-------------------|:-----------------------:|:--------------------------------:|--------------------------------------|:-------:
+| Tarea 1           | 30/05/2023              | 25/06/2023 - 23:59               | Propuesta proyecto de investigación  |[Click aquí](/exams/Tarea1.pdf "Pauta Tarea 1") |
+| Tarea 2           | 30/06/2023              | 16/07/2023 - 23:59               | Ajuste a la propuesta + metodología  |[Click aquí](/exams/Tarea2.pdf "Pauta Tarea 2") |
+| Proyecto          | 30/06/2023              | 05/08/2023 - 18:30 a 21:45       | Presentación de resultados           |[Click aquí](/exams/Proyecto.pdf "Pauta Proyecto") |
+| Presentaciones    | -                       | [Link aquí](https://uccl0-my.sharepoint.com/:x:/g/personal/jdconejeros_uc_cl/Ed-gi54og-1MiaccCW2WG6EBdrPFG6ON3mvnrtvaCmP4Yw?e=k111Ew)                    | Presentación de artículos            | [Click aquí](/exams/Presentaciones.pdf "Pauta Presentación") |
+
+**Todas las evaluaciones se deben enviar por correo al profesor José Daniel Conejeros [jdconejeros@uc.cl](jdconejeros@uc.cl) con copia a la ayudante Sofía Madariaga Alvarado [samadariaga@uc.cl](samadariaga@uc.cl).**
+
+
+## Integridad académica
+
+*Como miembro de la comunidad de la Pontificia Universidad Católica de Chile, me comprometo a respetar los principios y normativas que la rigen. Asimismo, me comprometo a actuar con rectitud y honestidad en las relaciones con los demás integrantes de la comunidad y en la realización de todo trabajo, particularmente en aquellas actividades vinculadas a la docencia, al aprendizaje y la creación, difusión y transferencia del conocimiento. Además, me comprometo a velar por la dignidad e integridad de las personas, evitando incurrir en y, rechazando, toda conducta abusiva de carácter físico, verbal, psicológico y de violencia sexual. Del mismo modo, asumo el compromiso de cuidar los bienes de la Universidad*.
+
+Más detalles sobre la integridad académica UC aquí: [https://integridadacademica.uc.cl/](https://integridadacademica.uc.cl/)
+
+## Contribuciones y agradecimientos
+
+El contenido de este curso fue desarrollado y adaptado a partir del trabajo del Ph.D. [Naim Bro](https://naimbro.github.io/) Profesor asistente de la Universidad Adolfo Ibañez y Ph.D. en Sociología de la universidad de Cambridge.
+
+- Puedes acceder al curso de referencia aquí: [Data policy](https://naimbro.github.io/programa_diplomado_2022.html)
+
+El formato web de este curso fue desarrollado y adaptado a partir del trabajo de la Ph.D. [Mine Çetinkaya-Rundel](https://mine-cr.com/) Profesora y Directora de Estudios de Grado del Departamento de Ciencias Estadísticas de la Universidad de Duke.
+
+- Puedes acceder al curso de referencia aquí: [STA 210](https://sta210-s22.github.io/website/)
+
+

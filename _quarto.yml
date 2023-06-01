@@ -59,7 +59,7 @@ website:
       - section: "Material de clases"
         contents:
           - href: class/class-1.qmd
-            text: "Clase 1"
+            text: "Clase 1 y 2"
           # - href: class/class-2.qmd
           #   text: "Clase 2"
       # - section: "Material suplementario"

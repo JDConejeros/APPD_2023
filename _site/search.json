@@ -35,48 +35,6 @@
     "text": "Aplicaciones a las ciencias sociales computacionales\nvan ’t Wout, E., Pieringer, C., Torres Irribarra, D., Asahi, K., & Larroulet, P. (2021). Machine learning for policing: a case study on arrests in Chile. Policing and society, 31(9), 1036-1050. Presentación de estudiantes 3 Click aquí\nRossetti, T., Lobel, H., Rocco, V., & Hurtubia, R. (2019). Explaining subjective perceptions of public spaces as a function of the built environment: A massive data approach. Landscape and urban planning, 181, 169-178. Presentación de estudiantes 4 Click aquí\nMéndez, J. T., Lobel, H., Parra, D., & Herrera, J. C. (2019). Using Twitter to infer user satisfaction with public transport: the case of Santiago, Chile. IEEE Access, 7, 60255-60263. Presentación de estudiantes 5 Click aquí\nBro, N., & Mendoza, M. (2021). Surname affinity in Santiago, Chile: A network-based approach that uncovers urban segregation. PloS one, 16(1), e0244372. Presentación de estudiantes 6 Click aquí\nBronfman, N. C., Repetto, P. B., Guerrero, N., Castañeda, J. V., & Cisternas, P. C. (2021). Temporal evolution in social vulnerability to natural hazards in Chile. Natural hazards, 107(2), 1757-1784. Presentación de estudiantes 7 Click aquí\nBeytía, P., & Müller, H. P. (2022). Towards a Digital Reflexive Sociology: Using Wikipedia’s Biographical Repository as a Reflexive Tool. Poetics, 95, 101732. Presentación de estudiantes 8 Click aquí\nCioffi-Revilla, C. (2014). Introduction to computational social science. London and Hei-delberg: Springer. 2ºEdition. Cap. 4. Click aquí\nLovelace, R., Nowosad, J., & Muenchow, J., (2019), Geocomputation with R, Chapman and Hall/CRC. Click aquí\nSilge, J., & Robinson, D. (2017). Text mining with R: A tidy approach. ” O’Reilly Media, Inc.”. Recurso en línea: Click aquí"
   },
   {
-    "objectID": "course-team.html#profesor",
-    "href": "course-team.html#profesor",
-    "title": "Equipo docente",
-    "section": "Profesor",
-    "text": "Profesor\nEl ayudante estará a cargo de a) entregar las clases a los estudiantes, b) realizar las correcciones de las evaluaciones c) contacto con estudiantes.\n\nJosé Daniel Conejeros;  jdconejeros@uc.cl;  JDConejeros;  jd-conejeros.com\nLicenciado en Ciencias Sociales, Magíster (c) en Sociología y Estadística PUC. Sus temas de investigación actual son salud pública, cambio climático, pobreza y metodologías cuantitativas. Ha participado en proyectos de investigación en educación, género y actualmente pertenece al Nucleo Milenio de Resistencia Bacteriana (Microb-R). En el ámbito profesional, ha sido consultor en temas cuantitativos para distintas fundaciones y organizaciones sin fines de lucro."
-  },
-  {
-    "objectID": "course-team.html#ayudante",
-    "href": "course-team.html#ayudante",
-    "title": "Equipo docente",
-    "section": "Ayudante",
-    "text": "Ayudante\nEl ayudante estará a cargo de a) ofrecer sesiones de apoyo a los estudiantes y b) realizar las correcciones de las tareas escritas.\n\nSofía Madariaga\n sofia.madariaga@mail.udp.cl\n s-madariaga\n Sociología, Pontificia Universidad Católica\n Temas de interés: Educación, consumo cultural y aplicaciones computacionales a la estadística"
-  },
-  {
-    "objectID": "class/class-1.html",
-    "href": "class/class-1.html",
-    "title": "Clase 1 y 2",
-    "section": "",
-    "text": "Ideas más importantes\n\n\n\n\nNos enfrentamos a un escenario de expansión digital en que las compañias, gobiernos y organizaciones acumulan grandes niveles de información denominado comúnmente como Big Data.\nEl Big Data no es solo cantidad, sino que otra serie de cualidades: volumen, variedad, velocidad, veracidad, valor, vago y vacuo.\nLas Ciencias Sociales Computacionales (CSC) utilizan herramientas de la programación y la estadística para procesar, analizar, modelar y predecir datos conductuales y relacionales de distinta naturaleza.\nEl objetivo de las CSC es robustecer las teorías e hipótesis clásicas de las ciencias sociales, a su vez de aproximar a nuevas preguntas para comprender nuestro vínculo con otros y otras."
-  },
-  {
-    "objectID": "class/class-1.html#presentación-de-la-clase",
-    "href": "class/class-1.html#presentación-de-la-clase",
-    "title": "Clase 1 y 2",
-    "section": "Presentación de la clase",
-    "text": "Presentación de la clase\n\n\nPuedes descargar la presentación en PDF dando Click aquí ⏎"
-  },
-  {
-    "objectID": "class/class-1.html#literatura-y-enlaces-de-referencia",
-    "href": "class/class-1.html#literatura-y-enlaces-de-referencia",
-    "title": "Clase 1 y 2",
-    "section": "Literatura y enlaces de referencia",
-    "text": "Literatura y enlaces de referencia\n\nSalganik, Matthew J. 2018. Bit by Bit: Social Research in the Digital Age. Princeton, New Jersey: Princeton University Press. Click aquí ⏎\n\nCapítulo 2, pp.12-39\n\nCioffi-Revilla, C. (2014). Introduction to computational social science. London and Hei-delberg: Springer. 2ºEdición. Click aquí ⏎\nLazer, David et al 2009. ‘Computational Social Science’. Science 323(5915):721–23. Click aquí ⏎\n\n\n\nVuelve a la descripción del curso ⏎"
-  },
-  {
-    "objectID": "course-contact.html",
-    "href": "course-contact.html",
-    "title": "Contacto con el profesor",
-    "section": "",
-    "text": "Todas los pdfs de clases, los laboratorios y actualizaciones serán subidos en esta plataforma y en el moodle. Los videos de las clases no se pueden subir a esta plataforma, pero estarán disponible en moodle.\nTendremos dos vías de comunicación:\n\nSlack del curso: actuaremos en una lógica de foro para esto utilizaremos una plataforma llamada slack donde pueden preguntar y las respuestas estarán disponibles para otros. Pueden acceder al slack creandose una cuenta y buscando el canal: C057ZU1S4RJ, también pueden dar click aquí.\nContacto vía correo: pueden hacer dudas o solicitar un horario de atención a jdconejeros@uc.cl."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Descripción del curso",
@@ -124,5 +82,47 @@
     "title": "Descripción del curso",
     "section": "Contribuciones y agradecimientos",
     "text": "Contribuciones y agradecimientos\nEl contenido de este curso fue desarrollado y adaptado a partir del trabajo del Ph.D. Naim Bro Profesor asistente de la Universidad Adolfo Ibañez y Ph.D. en Sociología de la universidad de Cambridge.\n\nPuedes acceder al curso de referencia aquí: Data policy\n\nEl formato web de este curso fue desarrollado y adaptado a partir del trabajo de la Ph.D. Mine Çetinkaya-Rundel Profesora y Directora de Estudios de Grado del Departamento de Ciencias Estadísticas de la Universidad de Duke.\n\nPuedes acceder al curso de referencia aquí: STA 210"
+  },
+  {
+    "objectID": "course-team.html#profesor",
+    "href": "course-team.html#profesor",
+    "title": "Equipo docente",
+    "section": "Profesor",
+    "text": "Profesor\nEl ayudante estará a cargo de a) entregar las clases a los estudiantes, b) realizar las correcciones de las evaluaciones c) contacto con estudiantes.\n\nJosé Daniel Conejeros;  jdconejeros@uc.cl;  JDConejeros;  jd-conejeros.com\nLicenciado en Ciencias Sociales, Magíster (c) en Sociología y Estadística PUC. Sus temas de investigación actual son salud pública, cambio climático, pobreza y metodologías cuantitativas. Ha participado en proyectos de investigación en educación, género y actualmente pertenece al Nucleo Milenio de Resistencia Bacteriana (Microb-R). En el ámbito profesional, ha sido consultor en temas cuantitativos para distintas fundaciones y organizaciones sin fines de lucro."
+  },
+  {
+    "objectID": "course-team.html#ayudante",
+    "href": "course-team.html#ayudante",
+    "title": "Equipo docente",
+    "section": "Ayudante",
+    "text": "Ayudante\nEl ayudante estará a cargo de a) ofrecer sesiones de apoyo a los estudiantes y b) realizar las correcciones de las tareas escritas.\n\nSofía Madariaga\n sofia.madariaga@mail.udp.cl\n s-madariaga\n Sociología, Pontificia Universidad Católica\n Temas de interés: Educación, consumo cultural y aplicaciones computacionales a la estadística"
+  },
+  {
+    "objectID": "class/class-1.html",
+    "href": "class/class-1.html",
+    "title": "Clase 1 y 2",
+    "section": "",
+    "text": "Ideas más importantes\n\n\n\n\nNos enfrentamos a un escenario de expansión digital en que las compañias, gobiernos y organizaciones acumulan grandes niveles de información denominado comúnmente como Big Data.\nEl Big Data no es solo cantidad, sino que otra serie de cualidades: volumen, variedad, velocidad, veracidad, valor, vago y vacuo.\nLas Ciencias Sociales Computacionales (CSC) utilizan herramientas de la programación y la estadística para procesar, analizar, modelar y predecir datos conductuales y relacionales de distinta naturaleza.\nEl objetivo de las CSC es robustecer las teorías e hipótesis clásicas de las ciencias sociales, a su vez de aproximar a nuevas preguntas para comprender nuestro vínculo con otros y otras."
+  },
+  {
+    "objectID": "class/class-1.html#presentación-de-la-clase",
+    "href": "class/class-1.html#presentación-de-la-clase",
+    "title": "Clase 1 y 2",
+    "section": "Presentación de la clase",
+    "text": "Presentación de la clase\n\n\nPuedes descargar la presentación en PDF dando Click aquí ⏎"
+  },
+  {
+    "objectID": "class/class-1.html#literatura-y-enlaces-de-referencia",
+    "href": "class/class-1.html#literatura-y-enlaces-de-referencia",
+    "title": "Clase 1 y 2",
+    "section": "Literatura y enlaces de referencia",
+    "text": "Literatura y enlaces de referencia\n\nSalganik, Matthew J. 2018. Bit by Bit: Social Research in the Digital Age. Princeton, New Jersey: Princeton University Press. Click aquí ⏎\n\nCapítulo 2, pp.12-39\n\nCioffi-Revilla, C. (2014). Introduction to computational social science. London and Hei-delberg: Springer. 2ºEdición. Click aquí ⏎\nLazer, David et al 2009. ‘Computational Social Science’. Science 323(5915):721–23. Click aquí ⏎\n\n\n\nVuelve a la descripción del curso ⏎"
+  },
+  {
+    "objectID": "course-contact.html",
+    "href": "course-contact.html",
+    "title": "Contacto con el profesor",
+    "section": "",
+    "text": "Todas los pdfs de clases, los laboratorios y actualizaciones serán subidos en esta plataforma y en el moodle. Los videos de las clases no se pueden subir a esta plataforma, pero estarán disponible en moodle.\nTendremos dos vías de comunicación:\n\nSlack del curso: actuaremos en una lógica de foro para esto utilizaremos una plataforma llamada slack donde pueden preguntar y las respuestas estarán disponibles para otros. Pueden acceder al slack creandose una cuenta y buscando el canal: C057ZU1S4RJ, también pueden dar click aquí.\nContacto vía correo: pueden hacer dudas o solicitar un horario de atención a jdconejeros@uc.cl."
   }
 ]

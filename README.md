@@ -4,7 +4,7 @@
 
 **José Daniel Conejeros** :mailbox_with_no_mail: jdconejeros\@uc.cl
 
-Sitio web del curso: [jdconejeros.github.io/APPD_UC_web/](jdconejeros.github.io/APPD_UC_web/) 
+Sitio web del curso: [jdconejeros.github.io/APPD_UC_web/](https://jdconejeros.github.io/APPD_UC_web/)
 
 [Guía inicial de R y RStudio](https://jdconejeros.shinyapps.io/Guia_inicial_R_2022/)
 

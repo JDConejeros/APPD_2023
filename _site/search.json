@@ -37,49 +37,49 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Descripción del curso",
+    "title": "Aproximación a las Políticas Públicas desde los datos",
     "section": "",
     "text": "El concepto de políticas basadas en evidencia adquiere cada vez más relevancia en distintos sectores dedicados a el análisis y diseño de políticas públicas, por lo que se hace necesario contar con profesionales preparados para estos efectos.\nLa era digital ha producido una explosión de datos conductuales y relacionales de distinta naturaleza comúnmente denominados big data. La ciencia social computacional (CSC) utiliza herramientas computacionales para procesar, analizar, visualizar y modelar estos datos. Este curso introduce a 2 áreas de interés para la CSC: 1) la extracción y manipulación de bases de datos y 2) técnicas aplicadas al análisis de datos geográficos (GD), redes sociales (SNA) y el procesamiento del lenguaje natural (NLP).\nLas clases estarán programas de la siguiente manera:\n\n\n\n\nFecha\nHorario\nContenidos\nMateriales\n\n\n\n\nSesión 1\nViernes 12/05/2023\n18:30 - 21:45\nIntroducción a las CSC para políticas públcas\n🖥️\n\n\nSesión 2\nViernes 26/05/2023\n18:30 - 21:45\nIntroducción a las CSC para políticas públcas\n🖥️\n\n\nSesión 3\nViernes 09/06/2023\n18:30 - 21:45\nFundamentos de la estadística para las CSC\n\n\n\nSesión 4\nSábado 10/06/2023\n09:00 - 12:15\nExtracción automática de texto: Webscraping y APIs\n\n\n\nSesión 5\nViernes 30/06/2023\n18:30 - 21:45\nIntroducción al análisis de redes sociales\n\n\n\nSesión 6\nViernes 14/07/2023\n18:30 - 21:45\nAnálisis de datos geográficos\n\n\n\nSesión 7\nViernes 04/08/2023\n18:30 - 21:45\nAnálisis automatizado de texto\n\n\n\nSesión 8\nSábado 05/08/2023\n09:00 - 12:15\nPresentación de trabajos finales"
   },
   {
     "objectID": "index.html#descripción-del-curso",
     "href": "index.html#descripción-del-curso",
-    "title": "Descripción del curso",
+    "title": "Aproximación a las Políticas Públicas desde los datos",
     "section": "",
     "text": "El concepto de políticas basadas en evidencia adquiere cada vez más relevancia en distintos sectores dedicados a el análisis y diseño de políticas públicas, por lo que se hace necesario contar con profesionales preparados para estos efectos.\nLa era digital ha producido una explosión de datos conductuales y relacionales de distinta naturaleza comúnmente denominados big data. La ciencia social computacional (CSC) utiliza herramientas computacionales para procesar, analizar, visualizar y modelar estos datos. Este curso introduce a 2 áreas de interés para la CSC: 1) la extracción y manipulación de bases de datos y 2) técnicas aplicadas al análisis de datos geográficos (GD), redes sociales (SNA) y el procesamiento del lenguaje natural (NLP).\nLas clases estarán programas de la siguiente manera:\n\n\n\n\nFecha\nHorario\nContenidos\nMateriales\n\n\n\n\nSesión 1\nViernes 12/05/2023\n18:30 - 21:45\nIntroducción a las CSC para políticas públcas\n🖥️\n\n\nSesión 2\nViernes 26/05/2023\n18:30 - 21:45\nIntroducción a las CSC para políticas públcas\n🖥️\n\n\nSesión 3\nViernes 09/06/2023\n18:30 - 21:45\nFundamentos de la estadística para las CSC\n\n\n\nSesión 4\nSábado 10/06/2023\n09:00 - 12:15\nExtracción automática de texto: Webscraping y APIs\n\n\n\nSesión 5\nViernes 30/06/2023\n18:30 - 21:45\nIntroducción al análisis de redes sociales\n\n\n\nSesión 6\nViernes 14/07/2023\n18:30 - 21:45\nAnálisis de datos geográficos\n\n\n\nSesión 7\nViernes 04/08/2023\n18:30 - 21:45\nAnálisis automatizado de texto\n\n\n\nSesión 8\nSábado 05/08/2023\n09:00 - 12:15\nPresentación de trabajos finales"
   },
   {
     "objectID": "index.html#objetivos-de-aprendizaje",
     "href": "index.html#objetivos-de-aprendizaje",
-    "title": "Descripción del curso",
+    "title": "Aproximación a las Políticas Públicas desde los datos",
     "section": "Objetivos de aprendizaje",
     "text": "Objetivos de aprendizaje\nAl terminar el curso, los estudiantes sabrán:\n\nIdentificar tipos de datos para distintas preguntas de investigación.\nIdentificar ventajas y desventajas de distintos métodos empíricos.\nAplicar métodos de ciencia de datos utilizando análisis estadístico\n\nLos puntos anteriores se realizarán utilizando R, por lo que los/as estudiantes profundizarán su conocimiento de este lenguaje de programación."
   },
   {
     "objectID": "index.html#metodología-del-curso",
     "href": "index.html#metodología-del-curso",
-    "title": "Descripción del curso",
+    "title": "Aproximación a las Políticas Públicas desde los datos",
     "section": "Metodología del curso",
     "text": "Metodología del curso\nEl curso es práctico por lo que tiene el propósito de enseñar a programar orientado proyectos, por lo que tendremos actividades:\n\nInteractivas: los estudiantes deberán programar análisis a partir de una pregunta/objetivo de investigación\nDe análisis: los estudiantes deberán leer investigaciones en el área y exponer a sus compañeros los aspectos principales\nAplicación: los estudiantes deberán aplicar alguna de las técnicas vistas a una pregunta relevante para las políticas públicas"
   },
   {
     "objectID": "index.html#evaluaciones",
     "href": "index.html#evaluaciones",
-    "title": "Descripción del curso",
+    "title": "Aproximación a las Políticas Públicas desde los datos",
     "section": "Evaluaciones",
     "text": "Evaluaciones\nEl curso tendrá 4 evaluaciones ponderadas y organizadas de la siguiente manera:\n\n\n\n\nFecha Publicación\nFecha - Horario de entrega\nContenidos\nPautas\n\n\n\n\nTarea 1\n30/05/2023\n25/06/2023 - 23:59\nPropuesta proyecto de investigación\nClick aquí\n\n\nTarea 2\n30/06/2023\n16/07/2023 - 23:59\nAjuste a la propuesta + metodología\nClick aquí\n\n\nProyecto\n30/06/2023\n05/08/2023 - 18:30 a 21:45\nPresentación de resultados\nClick aquí\n\n\nPresentaciones\n-\nLink aquí\nPresentación de artículos\nClick aquí\n\n\n\nTodas las evaluaciones se deben enviar por correo al profesor José Daniel Conejeros jdconejeros@uc.cl con copia a la ayudante Sofía Madariaga Alvarado samadariaga@uc.cl."
   },
   {
     "objectID": "index.html#integridad-académica",
     "href": "index.html#integridad-académica",
-    "title": "Descripción del curso",
+    "title": "Aproximación a las Políticas Públicas desde los datos",
     "section": "Integridad académica",
     "text": "Integridad académica\nComo miembro de la comunidad de la Pontificia Universidad Católica de Chile, me comprometo a respetar los principios y normativas que la rigen. Asimismo, me comprometo a actuar con rectitud y honestidad en las relaciones con los demás integrantes de la comunidad y en la realización de todo trabajo, particularmente en aquellas actividades vinculadas a la docencia, al aprendizaje y la creación, difusión y transferencia del conocimiento. Además, me comprometo a velar por la dignidad e integridad de las personas, evitando incurrir en y, rechazando, toda conducta abusiva de carácter físico, verbal, psicológico y de violencia sexual. Del mismo modo, asumo el compromiso de cuidar los bienes de la Universidad.\nMás detalles sobre la integridad académica UC aquí: https://integridadacademica.uc.cl/"
   },
   {
     "objectID": "index.html#contribuciones-y-agradecimientos",
     "href": "index.html#contribuciones-y-agradecimientos",
-    "title": "Descripción del curso",
+    "title": "Aproximación a las Políticas Públicas desde los datos",
     "section": "Contribuciones y agradecimientos",
     "text": "Contribuciones y agradecimientos\nEl contenido de este curso fue desarrollado y adaptado a partir del trabajo del Ph.D. Naim Bro Profesor asistente de la Universidad Adolfo Ibañez y Ph.D. en Sociología de la universidad de Cambridge.\n\nPuedes acceder al curso de referencia aquí: Data policy\n\nEl formato web de este curso fue desarrollado y adaptado a partir del trabajo de la Ph.D. Mine Çetinkaya-Rundel Profesora y Directora de Estudios de Grado del Departamento de Ciencias Estadísticas de la Universidad de Duke.\n\nPuedes acceder al curso de referencia aquí: STA 210"
   },

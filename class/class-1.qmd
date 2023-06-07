@@ -2,6 +2,8 @@
 title: "Clase 1 y 2"
 subtitle: "Políticas Públicas y Ciencia de Datos"
 editor: visual
+include-after-body: 
+  - ../html/footer_post.html
 ---
 
 ::: {.callout-note title="Ideas más importantes"}
@@ -22,7 +24,7 @@ editor: visual
 
 Puedes descargar la presentación en PDF dando [Click aquí](/slides/APPDD_clase1.pdf "Clase 1 pdf") ⏎
 
-## Literatura y enlaces de referencia 
+## Literatura y enlaces de referencia
 
 -   Salganik, Matthew J. 2018. Bit by Bit: Social Research in the Digital Age. Princeton, New Jersey: Princeton University Press. [Click aquí](https://www.dropbox.com/sh/zizvx2f707eagll/AADVBjqFwhemktpMqGJcSHmsa?dl=0) ⏎
 

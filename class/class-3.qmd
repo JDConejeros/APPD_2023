@@ -9,9 +9,9 @@ include-after-body:
 ::: {.callout-note title="Ideas más importantes"}
 1.  El webscraping es un proceso de extracción de datos estructurados, semi-estructurados y no estructurados de forma automática desde un sitio web.
 
-2.  APIs (interfaz de programación de aplicaciones) es un conjunto de definiciones y protocolos utilizados para desarrollar e integrar programas informáticos de aplicación. Las API permiten que sus productos y servicios se comuniquen con otros sin necesidad de saber cómo se implementan. 
+2.  APIs (interfaz de programación de aplicaciones) es un conjunto de definiciones y protocolos utilizados para desarrollar e integrar programas informáticos de aplicación. Las API permiten que sus productos y servicios se comuniquen con otros sin necesidad de saber cómo se implementan.
 
-3. APIs como webscraping son herramientas que nos permiten generar data a través de la web, pero que tienen sus desafíos metodológicos y éticos.
+3.  APIs como webscraping son herramientas que nos permiten generar data a través de la web, pero que tienen sus desafíos metodológicos y éticos.
 :::
 
 ## Presentación de la clase
@@ -24,8 +24,25 @@ Puedes descargar la presentación en PDF dando [Click aquí](/slides/APPDD_clase
 
 ## Literatura y enlaces de referencia
 
+Urdinez, F., & Cruz, A. (2020). R for Political Data Science: A Practical Guide. CRC Press.
 
+-   [Cap. 12. Minería de datos web](https://arcruz0.github.io/libroadp/web-mining.html) ⏎
 
+Wickham, H., & Grolemund, G. (2016). R for data science: import, tidy, transform, visualize, and model data. " O'Reilly Media, Inc.".
+
+-   [Cap. 25. Web scraping R for data science](https://r4ds.hadley.nz/webscraping.html) ⏎
+
+**Otras referencias**
+
+-   [Data collection: Web (screen) scraping](https://bookdown.org/paul/2021_computational_social_science/data-collection-web-screen-scraping.html) ⏎
+
+-   Riva Quiroga, ["Introducción al web scraping usando R"](https://programminghistorian.org/es/lecciones/introduccion-al-web-scraping-usando-r), Programming Historian en español 6 (2022), https://doi.org/10.46430/phes0061. ⏎
+
+-   [Using Web APIs from R](https://posit.co/resources/videos/using-web-apis-from-r/) ⏎
+
+-   [Accessing Web APIs](https://info201.github.io/apis.html) ⏎
+
+-   Curso de Brian Cooksey [An introduction to APIs](https://zapier.com/resources/guides/apis) ⏎
 
 <br><br>
 

@@ -10,16 +10,16 @@ La era digital ha producido una explosión de datos conductuales y relacionales 
 
 Las clases estarán programas de la siguiente manera:
 
-|          |       Fecha        |    Horario    | Contenidos                                         |                           Materiales                            |
-|----------|:------------------:|:-------------:|----------------------------------------------------|:---------------------------------------------------------------:|
-| Sesión 1 | Viernes 12/05/2023 | 18:30 - 21:45 | Introducción a las CSC para políticas públcas      | [🖥️](class/class-1.html "Clase 1"){aria-label="Clase 1 slides"} |
-| Sesión 2 | Viernes 26/05/2023 | 18:30 - 21:45 | Introducción a las CSC para políticas públcas      | [🖥️](class/class-1.html "Clase 1"){aria-label="Clase 1 slides"} |
-| Sesión 3 | Viernes 09/06/2023 | 18:30 - 21:45 | Fundamentos de la estadística para las CSC         |                                                                 |
-| Sesión 4 | Sábado 10/06/2023  | 09:00 - 12:15 | Extracción automática de texto: Webscraping y APIs |                                                                 |
-| Sesión 5 | Viernes 30/06/2023 | 18:30 - 21:45 | Introducción al análisis de redes sociales         |                                                                 |
-| Sesión 6 | Viernes 14/07/2023 | 18:30 - 21:45 | Análisis de datos geográficos                      |                                                                 |
-| Sesión 7 | Viernes 04/08/2023 | 18:30 - 21:45 | Análisis automatizado de texto                     |                                                                 |
-| Sesión 8 | Sábado 05/08/2023  | 09:00 - 12:15 | Presentación de trabajos finales                   |                                                                 |
+|          |       Fecha        |    Horario    | Contenidos                                         |                           Materiales                            | Laboratorios.  |
+|------------|:----------:|:----------:|----------------|:--------------------:|:--------------------:|
+| Sesión 1 | Viernes 12/05/2023 | 18:30 - 21:45 | Introducción a las CSC para políticas públcas      | [🖥️](class/class-1.html "Clase 1"){aria-label="Clase 1 slides"} ||
+| Sesión 2 | Viernes 26/05/2023 | 18:30 - 21:45 | Introducción a las CSC para políticas públcas      | [🖥️](class/class-1.html "Clase 1"){aria-label="Clase 1 slides"} ||
+| Sesión 3 | Viernes 09/06/2023 | 18:30 - 21:45 | Fundamentos de la estadística para las CSC         |                                                                 ||
+| Sesión 4 | Sábado 10/06/2023  | 09:00 - 12:15 | Extracción automática de texto: Webscraping y APIs | [🖥️](class/class-3.html "Clase 3"){aria-label="Clase 3 slides"}  | [📚](labs/lab-c3.html "Laboratorio clase 3"){aria-label="Laboratorio clase 3"} |
+| Sesión 5 | Viernes 30/06/2023 | 18:30 - 21:45 | Introducción al análisis de redes sociales         |                                                                 ||
+| Sesión 6 | Viernes 14/07/2023 | 18:30 - 21:45 | Análisis de datos geográficos                      |                                                                 ||
+| Sesión 7 | Viernes 04/08/2023 | 18:30 - 21:45 | Análisis automatizado de texto                     |                                                                 ||
+| Sesión 8 | Sábado 05/08/2023  | 09:00 - 12:15 | Presentación de trabajos finales                   |                                                                 ||
 
 ## Objetivos de aprendizaje
 
@@ -48,7 +48,7 @@ El curso es práctico por lo que tiene el propósito de enseñar a programar ori
 El curso tendrá 4 evaluaciones ponderadas y organizadas de la siguiente manera:
 
 |                | Fecha Publicación |                                                      Fecha - Horario de entrega                                                       | Contenidos                          |                            Pautas                            |
-|----------------|:-----------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|-------------------------------------|:------------------------------------------------------------:|
+|-----------|:---------:|:--------------------------:|-----------|:---------:|
 | Tarea 1        |    30/05/2023     |                                                          25/06/2023 - 23:59                                                           | Propuesta proyecto de investigación |       [Click aquí](/exams/Tarea1.pdf "Pauta Tarea 1")        |
 | Tarea 2        |    30/06/2023     |                                                          16/07/2023 - 23:59                                                           | Ajuste a la propuesta + metodología |       [Click aquí](/exams/Tarea2.pdf "Pauta Tarea 2")        |
 | Proyecto       |    30/06/2023     |                                                      05/08/2023 - 18:30 a 21:45                                                       | Presentación de resultados          |      [Click aquí](/exams/Proyecto.pdf "Pauta Proyecto")      |

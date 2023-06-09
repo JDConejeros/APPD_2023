@@ -1,0 +1,34 @@
+---
+title: "Clase 3"
+subtitle: "Webscraping y APIS"
+editor: visual
+include-after-body: 
+  - ../html/footer_post.html
+---
+
+::: {.callout-note title="Ideas más importantes"}
+1.  El webscraping es un proceso de extracción de datos estructurados, semi-estructurados y no estructurados de forma automática desde un sitio web.
+
+2.  APIs (interfaz de programación de aplicaciones) es un conjunto de definiciones y protocolos utilizados para desarrollar e integrar programas informáticos de aplicación. Las API permiten que sus productos y servicios se comuniquen con otros sin necesidad de saber cómo se implementan. 
+
+3. APIs como webscraping son herramientas que nos permiten generar data a través de la web, pero que tienen sus desafíos metodológicos y éticos.
+:::
+
+## Presentación de la clase
+
+<iframe src="/slides/APPDD_clase3.html" height="550" width="100%" allowfullscreen="true">
+
+</iframe>
+
+Puedes descargar la presentación en PDF dando [Click aquí](/slides/APPDD_clase3.pdf "Clase 3 pdf") ⏎
+
+## Literatura y enlaces de referencia
+
+
+
+
+<br><br>
+
+::: {style="font-size: 0.875em;"}
+Vuelve a la [descripción del curso](/ "Descripción del curso") ⏎
+:::

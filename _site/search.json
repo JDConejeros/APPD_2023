@@ -98,95 +98,88 @@
     "text": "Ayudante\nEl ayudante estará a cargo de a) ofrecer sesiones de apoyo a los estudiantes y b) realizar las correcciones de las tareas escritas.\n\nSofía Madariaga\n sofia.madariaga@mail.udp.cl\n s-madariaga\n Sociología, Pontificia Universidad Católica\n Temas de interés: Educación, consumo cultural y aplicaciones computacionales a la estadística"
   },
   {
-    "objectID": "class/class-1.html",
-    "href": "class/class-1.html",
-    "title": "Clase 1 y 2",
-    "section": "",
-    "text": "Ideas más importantes\n\n\n\n\nNos enfrentamos a un escenario de expansión digital en que las compañias, gobiernos y organizaciones acumulan grandes niveles de información denominado comúnmente como Big Data.\nEl Big Data no es solo cantidad, sino que otra serie de cualidades: volumen, variedad, velocidad, veracidad, valor, vago y vacuo.\nLas Ciencias Sociales Computacionales (CSC) utilizan herramientas de la programación y la estadística para procesar, analizar, modelar y predecir datos conductuales y relacionales de distinta naturaleza.\nEl objetivo de las CSC es robustecer las teorías e hipótesis clásicas de las ciencias sociales, a su vez de aproximar a nuevas preguntas para comprender nuestro vínculo con otros y otras."
-  },
-  {
-    "objectID": "class/class-1.html#presentación-de-la-clase",
-    "href": "class/class-1.html#presentación-de-la-clase",
-    "title": "Clase 1 y 2",
-    "section": "Presentación de la clase",
-    "text": "Presentación de la clase\n\n\nPuedes descargar la presentación en PDF dando Click aquí ⏎"
-  },
-  {
-    "objectID": "class/class-1.html#literatura-y-enlaces-de-referencia",
-    "href": "class/class-1.html#literatura-y-enlaces-de-referencia",
-    "title": "Clase 1 y 2",
-    "section": "Literatura y enlaces de referencia",
-    "text": "Literatura y enlaces de referencia\n\nSalganik, Matthew J. 2018. Bit by Bit: Social Research in the Digital Age. Princeton, New Jersey: Princeton University Press. Click aquí ⏎\n\nCapítulo 2, pp.12-39\n\nCioffi-Revilla, C. (2014). Introduction to computational social science. London and Hei-delberg: Springer. 2ºEdición. Click aquí ⏎\nLazer, David et al 2009. ‘Computational Social Science’. Science 323(5915):721–23. Click aquí ⏎\n\n\n\nVuelve a la descripción del curso ⏎"
-  },
-  {
-    "objectID": "course-contact.html",
-    "href": "course-contact.html",
-    "title": "Contacto con el profesor",
-    "section": "",
-    "text": "Todas los pdfs de clases, los laboratorios y actualizaciones serán subidos en esta plataforma y en el moodle. Los videos de las clases no se pueden subir a esta plataforma, pero estarán disponible en moodle.\nTendremos dos vías de comunicación:\n\nSlack del curso: actuaremos en una lógica de foro para esto utilizaremos una plataforma llamada slack donde pueden preguntar y las respuestas estarán disponibles para otros. Pueden acceder al slack creandose una cuenta y buscando el canal: C057ZU1S4RJ, también pueden dar click aquí.\nContacto vía correo: pueden hacer dudas o solicitar un horario de atención a jdconejeros@uc.cl."
-  },
-  {
     "objectID": "slides_papers/present_papers.html",
     "href": "slides_papers/present_papers.html",
-    "title": "Presentaciones artículos de investigación",
+    "title": "Artículos de investigación",
     "section": "",
     "text": "Breiman, L. (2001). Statistical modeling: The two cultures (with comments and a rejoinder by the author). Statistical science, 16(3), 199-214.\n\nPresentación en PDF dando Click aquí ⏎\nArtículo en PDF dando Click aquí"
   },
   {
     "objectID": "slides_papers/present_papers.html#statistical-modeling-the-two-cultures",
     "href": "slides_papers/present_papers.html#statistical-modeling-the-two-cultures",
-    "title": "Presentaciones artículos de investigación",
+    "title": "Artículos de investigación",
     "section": "",
     "text": "Breiman, L. (2001). Statistical modeling: The two cultures (with comments and a rejoinder by the author). Statistical science, 16(3), 199-214.\n\nPresentación en PDF dando Click aquí ⏎\nArtículo en PDF dando Click aquí"
   },
   {
     "objectID": "slides_papers/present_papers.html#machine-learning-for-social-science-an-agnostic-approach",
     "href": "slides_papers/present_papers.html#machine-learning-for-social-science-an-agnostic-approach",
-    "title": "Presentaciones artículos de investigación",
+    "title": "Artículos de investigación",
     "section": "Machine learning for social science: An agnostic approach",
     "text": "Machine learning for social science: An agnostic approach\n\n\nGrimmer, J., Roberts, M. E., & Stewart, B. M. (2021). Machine learning for social science: An agnostic approach. Annual Review of Political Science, 24, 395-419.\n\nPresentación en PDF dando Click aquí ⏎\nArtículo en PDF dando Click aquí"
   },
   {
     "objectID": "slides_papers/present_papers.html#machine-learning-for-policing-a-case-study-on-arrests-in-chile",
     "href": "slides_papers/present_papers.html#machine-learning-for-policing-a-case-study-on-arrests-in-chile",
-    "title": "Presentaciones artículos de investigación",
+    "title": "Artículos de investigación",
     "section": "Machine learning for policing: a case study on arrests in Chile",
     "text": "Machine learning for policing: a case study on arrests in Chile\nvan ’t Wout, E., Pieringer, C., Torres Irribarra, D., Asahi, K., & Larroulet, P. (2021). Machine learning for policing: a case study on arrests in Chile. Policing and society, 31(9), 1036-1050."
   },
   {
     "objectID": "slides_papers/present_papers.html#explaining-subjective-perceptions-of-public-spaces-as-a-function-of-the-built-environment",
     "href": "slides_papers/present_papers.html#explaining-subjective-perceptions-of-public-spaces-as-a-function-of-the-built-environment",
-    "title": "Presentaciones artículos de investigación",
+    "title": "Artículos de investigación",
     "section": "Explaining subjective perceptions of public spaces as a function of the built environment",
     "text": "Explaining subjective perceptions of public spaces as a function of the built environment\nRossetti, T., Lobel, H., Rocco, V., & Hurtubia, R. (2019). Explaining subjective perceptions of public spaces as a function of the built environment: A massive data approach. Landscape and urban planning, 181, 169-178."
   },
   {
     "objectID": "slides_papers/present_papers.html#using-twitter-to-infer-user-satisfaction-with-public-transport",
     "href": "slides_papers/present_papers.html#using-twitter-to-infer-user-satisfaction-with-public-transport",
-    "title": "Presentaciones artículos de investigación",
+    "title": "Artículos de investigación",
     "section": "Using Twitter to infer user satisfaction with public transport",
     "text": "Using Twitter to infer user satisfaction with public transport\nMéndez, J. T., Lobel, H., Parra, D., & Herrera, J. C. (2019). Using Twitter to infer user satisfaction with public transport: the case of Santiago, Chile. IEEE Access, 7, 60255-60263."
   },
   {
     "objectID": "slides_papers/present_papers.html#surname-affinity-in-santiago-chile-a-network-based-approach-that-uncovers-urban-segregation",
     "href": "slides_papers/present_papers.html#surname-affinity-in-santiago-chile-a-network-based-approach-that-uncovers-urban-segregation",
-    "title": "Presentaciones artículos de investigación",
+    "title": "Artículos de investigación",
     "section": "Surname affinity in Santiago, Chile: A network-based approach that uncovers urban segregation",
     "text": "Surname affinity in Santiago, Chile: A network-based approach that uncovers urban segregation\nBro, N., & Mendoza, M. (2021). Surname affinity in Santiago, Chile: A network-based approach that uncovers urban segregation. PloS one, 16(1), e0244372."
   },
   {
     "objectID": "slides_papers/present_papers.html#temporal-evolution-in-social-vulnerability-to-natural-hazards-in-chile",
     "href": "slides_papers/present_papers.html#temporal-evolution-in-social-vulnerability-to-natural-hazards-in-chile",
-    "title": "Presentaciones artículos de investigación",
+    "title": "Artículos de investigación",
     "section": "Temporal evolution in social vulnerability to natural hazards in Chile",
     "text": "Temporal evolution in social vulnerability to natural hazards in Chile\nBronfman, N. C., Repetto, P. B., Guerrero, N., Castañeda, J. V., & Cisternas, P. C. (2021). Temporal evolution in social vulnerability to natural hazards in Chile. Natural hazards, 107(2), 1757-1784."
   },
   {
     "objectID": "slides_papers/present_papers.html#towards-a-digital-reflexive-sociology",
     "href": "slides_papers/present_papers.html#towards-a-digital-reflexive-sociology",
-    "title": "Presentaciones artículos de investigación",
+    "title": "Artículos de investigación",
     "section": "Towards a Digital Reflexive Sociology",
     "text": "Towards a Digital Reflexive Sociology\nBeytía, P., & Müller, H. P. (2022). Towards a Digital Reflexive Sociology: Using Wikipedia’s Biographical Repository as a Reflexive Tool. Poetics, 95, 101732.\n\n\nVuelve a la descripción del curso ⏎"
+  },
+  {
+    "objectID": "class/class-1.html",
+    "href": "class/class-1.html",
+    "title": "Clase 1",
+    "section": "",
+    "text": "Ideas más importantes\n\n\n\n\nNos enfrentamos a un escenario de expansión digital en que las compañias, gobiernos y organizaciones acumulan grandes niveles de información denominado comúnmente como Big Data.\nEl Big Data no es solo cantidad, sino que otra serie de cualidades: volumen, variedad, velocidad, veracidad, valor, vago y vacuo.\nLas Ciencias Sociales Computacionales (CSC) utilizan herramientas de la programación y la estadística para procesar, analizar, modelar y predecir datos conductuales y relacionales de distinta naturaleza.\nEl objetivo de las CSC es robustecer las teorías e hipótesis clásicas de las ciencias sociales, a su vez de aproximar a nuevas preguntas para comprender nuestro vínculo con otros y otras."
+  },
+  {
+    "objectID": "class/class-1.html#presentación-de-la-clase",
+    "href": "class/class-1.html#presentación-de-la-clase",
+    "title": "Clase 1",
+    "section": "Presentación de la clase",
+    "text": "Presentación de la clase\n\n\nPuedes descargar la presentación en PDF dando Click aquí ⏎"
+  },
+  {
+    "objectID": "class/class-1.html#literatura-y-enlaces-de-referencia",
+    "href": "class/class-1.html#literatura-y-enlaces-de-referencia",
+    "title": "Clase 1",
+    "section": "Literatura y enlaces de referencia",
+    "text": "Literatura y enlaces de referencia\n\nSalganik, Matthew J. 2018. Bit by Bit: Social Research in the Digital Age. Princeton, New Jersey: Princeton University Press. Click aquí ⏎\n\nCapítulo 2, pp.12-39\n\nCioffi-Revilla, C. (2014). Introduction to computational social science. London and Hei-delberg: Springer. 2ºEdición. Click aquí ⏎\nLazer, David et al 2009. ‘Computational Social Science’. Science 323(5915):721–23. Click aquí ⏎\n\n\n\nVuelve a la descripción del curso ⏎"
   },
   {
     "objectID": "class/class-3.html",
@@ -229,5 +222,12 @@
     "title": "Clase 2",
     "section": "Literatura y enlaces de referencia",
     "text": "Literatura y enlaces de referencia\n\nSalganik, Matthew J. 2018. Bit by Bit: Social Research in the Digital Age. Princeton, New Jersey: Princeton University Press. Click aquí ⏎\n\n\n\nVuelve a la descripción del curso ⏎"
+  },
+  {
+    "objectID": "course-contact.html",
+    "href": "course-contact.html",
+    "title": "Contacto con el profesor",
+    "section": "",
+    "text": "Todas los pdfs de clases, los laboratorios y actualizaciones serán subidos en esta plataforma y en el moodle. Los videos de las clases no se pueden subir a esta plataforma, pero estarán disponible en moodle.\nTendremos dos vías de comunicación:\n\nSlack del curso: actuaremos en una lógica de foro para esto utilizaremos una plataforma llamada slack donde pueden preguntar y las respuestas estarán disponibles para otros. Pueden acceder al slack creandose una cuenta y buscando el canal: C057ZU1S4RJ, también pueden dar click aquí.\nContacto vía correo: pueden hacer dudas o solicitar un horario de atención a jdconejeros@uc.cl."
   }
 ]

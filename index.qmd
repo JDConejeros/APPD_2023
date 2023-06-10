@@ -11,7 +11,7 @@ La era digital ha producido una explosión de datos conductuales y relacionales 
 Las clases estarán programas de la siguiente manera:
 
 |          |       Fecha        |    Horario    | Contenidos                                         |                           Materiales                            |                                 Laboratorios.                                  |
-|----------|:------------------:|:-------------:|----------------------------------------------------|:---------------------------------------------------------------:|:------------------------------------------------------------------------------:|
+|-----------|:---------:|:---------:|-----------|:----------:|:--------------:|
 | Sesión 1 | Viernes 12/05/2023 | 18:30 - 21:45 | Introducción a las CSC para políticas públcas      | [🖥️](class/class-1.html "Clase 1"){aria-label="Clase 1 slides"} |                                                                                |
 | Sesión 2 | Viernes 26/05/2023 | 18:30 - 21:45 | Introducción a las CSC para políticas públcas      | [🖥️](class/class-1.html "Clase 1"){aria-label="Clase 1 slides"} |                                                                                |
 | Sesión 3 | Viernes 09/06/2023 | 18:30 - 21:45 | Fundamentos de la estadística para las CSC         | [🖥️](class/class-2.html "Clase 2"){aria-label="Clase 2 slides"} | [📚](labs/lab-c2.html "Laboratorio clase 2"){aria-label="Laboratorio clase 2"} |
@@ -48,7 +48,7 @@ El curso es práctico por lo que tiene el propósito de enseñar a programar ori
 El curso tendrá 4 evaluaciones ponderadas y organizadas de la siguiente manera:
 
 |                | Fecha Publicación |                                                      Fecha - Horario de entrega                                                       | Contenidos                          |                            Pautas                            |
-|----------------|:-----------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|-------------------------------------|:------------------------------------------------------------:|
+|-----------|:---------:|:--------------------------:|-----------|:---------:|
 | Tarea 1        |    30/05/2023     |                                                          25/06/2023 - 23:59                                                           | Propuesta proyecto de investigación |       [Click aquí](/exams/Tarea1.pdf "Pauta Tarea 1")        |
 | Tarea 2        |    30/06/2023     |                                                          16/07/2023 - 23:59                                                           | Ajuste a la propuesta + metodología |       [Click aquí](/exams/Tarea2.pdf "Pauta Tarea 2")        |
 | Proyecto       |    30/06/2023     |                                                      05/08/2023 - 18:30 a 21:45                                                       | Presentación de resultados          |      [Click aquí](/exams/Proyecto.pdf "Pauta Proyecto")      |

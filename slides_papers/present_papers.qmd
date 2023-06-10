@@ -14,9 +14,7 @@ include-after-body:
 
 Breiman, L. (2001). Statistical modeling: The two cultures (with comments and a rejoinder by the author). Statistical science, 16(3), 199-214.
 
-
-- Presentación en PDF dando [Click aquí](/slides_papers/1. Statistical Modeling The two cultures.pdf "Paper 1 pdf") ⏎
-- Artículo en PDF dando [Click aquí](https://www.dropbox.com/sh/coofp1auza4u55v/AAAKyJ_Ov5L-OYZx2AmU2wNfa?dl=0)
+-   Artículo en PDF dando [Click aquí](https://www.dropbox.com/sh/coofp1auza4u55v/AAAKyJ_Ov5L-OYZx2AmU2wNfa?dl=0)
 
 ## Machine learning for social science: An agnostic approach
 
@@ -26,47 +24,43 @@ Breiman, L. (2001). Statistical modeling: The two cultures (with comments and a 
 
 Grimmer, J., Roberts, M. E., & Stewart, B. M. (2021). Machine learning for social science: An agnostic approach. Annual Review of Political Science, 24, 395-419.
 
-- Presentación en PDF dando [Click aquí](/slides_papers/2. Machine Learning for Social Science An Agnostic Approach.pdf "Paper 2 pdf") ⏎
-- Artículo en PDF dando [Click aquí](https://www.dropbox.com/sh/coofp1auza4u55v/AAAKyJ_Ov5L-OYZx2AmU2wNfa?dl=0)
+-   Artículo en PDF dando [Click aquí](https://www.dropbox.com/sh/coofp1auza4u55v/AAAKyJ_Ov5L-OYZx2AmU2wNfa?dl=0)
 
-##  Machine learning for policing: a case study on arrests in Chile
+## Machine learning for policing: a case study on arrests in Chile
 
-van ‘t Wout, E., Pieringer, C., Torres Irribarra, D., Asahi, K., & Larroulet, P. (2021). Machine learning for policing: a case study on arrests in Chile. Policing and society, 31(9), 1036-1050.
+<iframe src="/slides_papers/3. Machine learning for policing a case study on arrests in Chile.pdf" height="550" width="100%" allowfullscreen="true">
 
+</iframe>
+
+van 't Wout, E., Pieringer, C., Torres Irribarra, D., Asahi, K., & Larroulet, P. (2021). Machine learning for policing: a case study on arrests in Chile. Policing and society, 31(9), 1036-1050.
+
+-   Artículo en PDF dando [Click aquí](https://www.dropbox.com/sh/coofp1auza4u55v/AAAKyJ_Ov5L-OYZx2AmU2wNfa?dl=0)
 
 ## Explaining subjective perceptions of public spaces as a function of the built environment
 
+<iframe src="/slides_papers/4. Explaining subjective perceptions of public spaces as a function of the built environment.pdf" height="550" width="100%" allowfullscreen="true">
+
+</iframe>
 
 Rossetti, T., Lobel, H., Rocco, V., & Hurtubia, R. (2019). Explaining subjective perceptions of public spaces as a function of the built environment: A massive data approach. Landscape and urban planning, 181, 169-178.
 
+-   Artículo en PDF dando [Click aquí](https://www.dropbox.com/sh/coofp1auza4u55v/AAAKyJ_Ov5L-OYZx2AmU2wNfa?dl=0)
 
 ## Using Twitter to infer user satisfaction with public transport
 
 Méndez, J. T., Lobel, H., Parra, D., & Herrera, J. C. (2019). Using Twitter to infer user satisfaction with public transport: the case of Santiago, Chile. IEEE Access, 7, 60255-60263.
 
-
 ## Surname affinity in Santiago, Chile: A network-based approach that uncovers urban segregation
 
 Bro, N., & Mendoza, M. (2021). Surname affinity in Santiago, Chile: A network-based approach that uncovers urban segregation. PloS one, 16(1), e0244372.
-
 
 ## Temporal evolution in social vulnerability to natural hazards in Chile
 
 Bronfman, N. C., Repetto, P. B., Guerrero, N., Castañeda, J. V., & Cisternas, P. C. (2021). Temporal evolution in social vulnerability to natural hazards in Chile. Natural hazards, 107(2), 1757-1784.
 
-
 ## Towards a Digital Reflexive Sociology
 
-
-
 Beytía, P., & Müller, H. P. (2022). Towards a Digital Reflexive Sociology: Using Wikipedia's Biographical Repository as a Reflexive Tool. Poetics, 95, 101732.
-
-
-
-
-
-
-
 
 <br><br>
 
